@@ -1,0 +1,7 @@
+{
+    "name": "xelta dev",
+    "image": "intel/oneapi:2024.0.1-devel-ubuntu22.04",
+    "runArgs": [
+        "--device=/dev/dri"
+    ]
+}
